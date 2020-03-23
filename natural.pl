@@ -20,7 +20,3 @@ natural(N):- N>1, N2 is N - 1, natural(N2).
 %fin programa
 
 
-% en prolog se pone la parte final al principio
-% las variables empiezan en mayuscula
-% una variable matematica describe algo, y se le dan propiedades. 
-% el ámbito de una variable en prolog es LA LINEA. al poner un punto, la siguiente línea ES  % UNA VARIABLE DISTINTA. eso nos permite corregir el problema línea a línea, la veracidad de % cada línea

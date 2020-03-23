@@ -1,0 +1,9 @@
+1. Sí es posible usar el predicado concatenar para obtener cualquier par de numeros consecutivos de una lista. Para ello tan solo hay que expresarlo de la siguiente forma:  concatenar(_,[E1,E2|_],[1,2,3,4,5,6]).
+El resultado que daría sería una serie de combinaciones de E1 y E2 de todos los pares consecutivos de la lista.
+
+2. Sí. Ejemplo: invertir(L1,[3,2,1]).
+L1 = [1, 2, 3] ;
+
+3. Un predicado no es reversible si usa el operando "is", o cualquier tipo de operacion aritmética.
+
+4. No entiendo la pregunta, la llevaré a tutoría.
